@@ -6,7 +6,7 @@
 
 - 🔭 Actualmente estoy trabajando en Biotik en el desarrollo de aplicaciones en Python para la gestión de información de servidores en ODK Central.
 - 🌱 Estoy actualizando mis conocimientos de programación a través de Node js y de contenedores a través de Docker.
-- 🎓 Me he dedicado a la educación por más de 8 años con respecto al desarrollo de aplicaciones Frontend, Backend y de bases de datos.
+- 🎓 Me he dedicado a la educación por más de 8 años a enseñar desarrollo de aplicaciones y de bases de datos.
 - 📫 Puedes contactarme a través de leonardovillagran@yahoo.com.
 
 ## Tecnologías y Herramientas
