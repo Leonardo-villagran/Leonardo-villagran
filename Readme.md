@@ -1,6 +1,6 @@
 # ¡Saludos, soy Leonardo Villagrán! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy Ingeniero de Gestión e Informática que disfruta creando soluciones innovadoras y explorando nuevas tecnologías. Aquí encontrarás una muestra de mis proyectos y contribuciones en el mundo del desarrollo.
+¡Bienvenido a mi perfil de GitHub! Soy Ingeniero de Gestión e Informática.
 
 ## Sobre Mí y Experiencia
 
