@@ -24,9 +24,9 @@ Programación Frontend:
 
 Programación Backend:
 
-- PHP
 - Node Express
 - Python
+- PHP
 
 Sistema de contenedores:
 
