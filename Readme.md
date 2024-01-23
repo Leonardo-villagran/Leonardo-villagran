@@ -4,9 +4,14 @@
 
 ## Sobre Mí y Experiencia
 
-- 🔭 Actualmente estoy trabajando como Freelance en Biotik en el desarrollo de aplicaciones web en React JS, Express y Python para la gestión de información de servidores en ODK Central.
-- 🌱 He actualizando mis conocimientos de programación a través de Node js y de contenedores a través de Docker.
-- 🎓 Me he dedicado a la educación por más de 7 años a enseñar desarrollo de aplicaciones y de bases de datos.
+- 🔭 Actualmente, desempeño el rol de Freelance en Biotik, donde lidero el desarrollo de aplicaciones web utilizando React JS, Express y Python para la gestión eficiente de información en servidores ODK Central.
+
+- 🚀 Con más de 15 años de experiencia, he creado e implementado sistemas de gestión web con bases de datos en los sectores de salud, educación y medio ambiente. Mi dedicación a la excelencia tecnológica ha sido clave para el avance y la eficiencia en diversas industrias.
+
+- 🌱 Como parte de mi compromiso con la actualización constante, he ampliado mis habilidades de programación a través de Node.js y he profundizado en el uso de contenedores mediante Docker.
+
+- 🎓 A lo largo de más de 7 años, he contribuido al campo educativo, impartiendo conocimientos en el desarrollo de aplicaciones y bases de datos, consolidando así mi compromiso con la formación y el crecimiento continuo.
+
 - 📫 Puedes contactarme a través de [leonardovillagranchicago@gmail.com](mailto:leonardovillagranchicago@gmail.com).
 
 ## Tecnologías y Herramientas
